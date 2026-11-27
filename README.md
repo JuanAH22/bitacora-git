@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Bitacora de Comandos Git y GitHub
 
 Mini guia rapida de comandos Git, creada como proyecto practico del curso Git y GitHub.
@@ -12,4 +11,3 @@ Abre el archivo `inicio.html` en tu navegador.
 
 ## Autor
 Juan Aguilar Haro
-EOF
